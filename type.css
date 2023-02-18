@@ -2,8 +2,13 @@
 	font-family: 'Phenomena-Bold';
 	src: url('font/Phenomena-Bold.ttf') format('truetype');
 }
-h1{
+.text{
 	font-family: "Phenomena-Bold";
 	font-weight: bold;
 	font-size: 80px;
+	color: white;
+}
+body {
+	background-image: url(wallpaper.jpg);
+	background-size:  cover;
 }

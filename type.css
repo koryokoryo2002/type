@@ -1,7 +1,9 @@
 @font-face {
-font-family: 'Phenomena-Bold';
-  src: url('font/Phenomena-Bold.ttff') format('truetype');
+	font-family: 'Phenomena-Bold';
+	src: url('font/Phenomena-Bold.ttf') format('truetype');
 }
 h1{
-  font-family: "Phenomena-Bold";
+	font-family: "Phenomena-Bold";
+	font-weight: bold;
+	font-size: 64px;
 }
